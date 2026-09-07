@@ -1,0 +1,30 @@
+#   conda env create -f environment.yaml
+#   conda activate hackathon-1
+#   conda env update -n hackathon-1 -f environment.yaml
+
+name: hackathon-1
+
+channels:
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+      # --- core numerics / tables ---
+      - numpy>=1.26
+      - scipy>=1.11        # interpolation, optimisation, signal/statistics helpers
+      - pandas>=2.1        # DataFrame tables throughout
+      - jinja2>=3.1        # required by pandas .style (the colour-coded delay matrix)
+
+      # --- plotting ---
+      - matplotlib>=3.8
+
+      # --- FITS I/O ---
+      - astropy>=6.0       # the notebook falls back to a built-in reader if this is missing
+
+      # --- notebook interface ---
+      - jupyterlab>=4.0
+      - notebook>=7.0
+      - ipykernel>=6.29
+      - ipython>=8.18
