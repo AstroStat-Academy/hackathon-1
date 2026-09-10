@@ -1,10 +1,9 @@
 # Lensing Time-Delay Hackathon — Petnica (Serbia) 2026
 
 <p align="center">
-  <video src="https://github.com/AstroStat-Academy/hackathon-1/raw/main/challenge/videos/preprocessing.mp4" controls muted loop width="820"></video>
+  <video src="challenge/videos/preprocessing.mp4" controls muted autoplay loop width="820"></video>
 </p>
 
-> If the video does not play above, watch [preprocessing.mp4](challenge/videos/preprocessing.mp4) — it shows how repeated observations of a lensed quasar build up the time series you will be working with.
 
 [Presentation](https://docs.google.com/presentation/d/1QdTCr_AhTNxT4i0USVuw67Ui06PHa4WUhkZEFXKfqKc/edit?usp=sharing)
 
