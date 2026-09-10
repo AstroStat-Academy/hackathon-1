@@ -1,7 +1,7 @@
 # Lensing Time-Delay Hackathon — Petnica (Serbia) 2026
 
 <p align="center">
-  <video src="challenge/videos/preprocessing.mp4" controls muted autoplay loop width="820"></video>
+  <img src="challenge/videos/preprocessing.gif" alt="How repeated observations of a lensed quasar build up a set of light curves" width="820">
 </p>
 
 
