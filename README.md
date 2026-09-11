@@ -1,5 +1,6 @@
 # Lensing Time-Delay Hackathon — Petnica (Serbia) 2026
 
+
 <p align="center">
   <img src="challenge/videos/preprocessing.gif" alt="How repeated observations of a lensed quasar build up a set of light curves" width="820">
 </p>
@@ -10,6 +11,12 @@
 Hackathon materials for **TALES School II**. A hands-on workshop on machine-learning
 applications to astrophysics, held **13–18 September 2026 at the Petnica Science Center,
 Serbia**.
+
+**Contributors:** 
+
+- [Dr. Paolo Bonfini](https://www.linkedin.com/in/paolo-bonfini-phd-085a6a179/) ([UniversiData srl](https://it.linkedin.com/company/universidata)) ·
+- [Nikolas Vasilas](https://www.linkedin.com/in/nikolas-vasilas-301412280/) ([Max Planck Institute for Extraterrestrial Physics](https://www.mpe.mpg.de)) ·
+- [Prof. Giorgos Vernardos](https://scholar.google.com/citations?user=1crHVPIAAAAJ) ([Lehman College, CUNY](https://www.lehman.edu) & [AMNH](https://www.amnh.org))
 
 ## The challenge
 
